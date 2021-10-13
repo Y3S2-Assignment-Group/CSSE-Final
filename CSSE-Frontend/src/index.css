@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e5e5e5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+.boderRadiusCards {
+  border-radius: 20px;
+  -webkit-box-shadow: 6px 6px 9px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: 6px 6px 9px -4px rgba(0,0,0,0.75);
+  box-shadow: 6px 6px 9px -4px rgba(0,0,0,0.75);
+}
+
+.modalCreateBtn{
+  background-color: #d36912;
+  border-radius: 15px;
+  min-width: 100px;
+  color: #FFFFFF;
+}
+
+.loadingScreen{
+  height: 100vh;
+  padding: 15%;
+}
+
+.covertBtn{
+ cursor: pointer;
+}
+
+@media screen and (max-width: 500px) {
+  .loadingScreen{
+    height: 100vh;
+    padding: 50% 15%;
+  }
+}

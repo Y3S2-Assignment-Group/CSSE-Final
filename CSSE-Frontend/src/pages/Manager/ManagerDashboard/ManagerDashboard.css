@@ -1,0 +1,38 @@
+.PODashboardCard{
+    /* min-height: 200px; */
+    transition: all 0.4s ease-in-out;
+
+}
+.PODashboardCard:hover{
+    /* min-height: 200px; */
+    transform: scale(1.01);
+
+}
+.PODashboardCardOne{
+    min-height: 400px;
+    background-image: url("../../../assets/DashboardSVG/dashboard.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.PODashboardCardTwo{
+    min-height: 190px;
+
+}
+
+.PODashboardCardThree{
+    min-height: 190px;
+
+}
+
+.PODashboardCardFour{
+    min-height: 190px;
+
+}
+.PODashboardCardFive{
+    min-height: 190px;
+
+}
+.PODashboardCardSix{
+    min-height: 190px;
+
+}

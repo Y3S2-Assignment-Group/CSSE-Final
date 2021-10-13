@@ -1,0 +1,10 @@
+.sprintTableBtn{
+    border-radius: 17px;
+    min-width: 100px;
+    color: #FFFFFF;
+    margin: 5px;
+}
+
+.sprintTableBtnPlus{
+    font-size: large;
+}

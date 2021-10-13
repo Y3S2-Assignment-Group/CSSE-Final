@@ -1,0 +1,21 @@
+.tableIcon{
+    font-size: x-large;
+}
+
+.statusLable{
+    padding: 3px 8px;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.statusLable-danger{
+    background-color: brown;
+}
+
+.statusLable-success{
+    background-color: #709E64;
+}
+
+.statusLable-warning{
+    background-color: #ED960B;
+}

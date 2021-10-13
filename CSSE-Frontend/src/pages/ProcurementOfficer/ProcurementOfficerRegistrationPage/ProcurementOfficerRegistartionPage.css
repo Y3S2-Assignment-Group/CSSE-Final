@@ -1,0 +1,30 @@
+.RegistrationPageColTwo{
+    background-image: url("../../../assets/RegistrationPageSVG/registrationPage.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    border-radius: 0px 17px 17px  0px;
+}
+
+.RegistrationPageColOne{
+    background-color: #F3F3F3;
+    color: #ED960B;
+    border-radius:  17px 0px 0px 17px ;
+}
+
+.RegistrationPageCard{
+    padding: 5%;
+}
+
+.RegistrationPageRow{
+    justify-content: center;
+}
+
+@media screen and (max-width: 800px) {
+    .RegistrationPageColOne{
+        border-radius: 17px 17px 17px 17px;
+    }
+    .RegistrationPageColTwo{
+        display: none;
+    }
+}

@@ -1,0 +1,36 @@
+.loginPageColOne{
+    background-image: url("../LoginPageSVG/loginformimg.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    border-radius: 17px 0px 0px 17px;
+}
+
+.loginPageColTwo{
+    background-color: #F3F3F3;
+    color: #ED960B;
+    border-radius: 0px 17px 17px 0px;
+}
+
+.loginPageCard{
+    padding: 5%;
+}
+
+.loginBtn{
+    background-color: #ED960B;
+    border-radius: 17px;
+    min-width: 150px;
+}
+
+.loginPageRow{
+    justify-content: center;
+}
+
+@media screen and (max-width: 500px) {
+    .loginPageColOne{
+        border-radius: 17px 17px 0px 0px;
+    }
+    .loginPageColTwo{
+        border-radius: 0px 0px 17px 17px;
+    }
+}
