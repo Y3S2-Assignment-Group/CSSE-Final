@@ -1,0 +1,5 @@
+{
+    "mongoURL": "mongodb+srv://y3s2group:y3s2group@assignmentprojects.j0vxv.mongodb.net/cssebackend?retryWrites=true&w=majority",
+  
+    "jwtSecret": "mysecrettoken"
+}
