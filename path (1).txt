@@ -1,0 +1,42 @@
+a)Register/login
+1.Manager
+2.accounting officer
+3.procurement officer
+
+b)Dashboard
+1.Manager
+2.accounting officer
+3.procurement officer
+
+c)path
+1.login as procurement officer
+2.create supplier
+3.add product
+4.delete/edit -- edit missing
+5.Register a sitemanager
+6.procument officer >> manage sites
+7.add a site >> select a site manager
+8.site manager login
+9.add order >> by suggesting a supplier
+10.site manager add products to order
+11.site manager dashboard
+12.confirms order
+13.login as procurement officer
+14.login as managr >> pending orders >> manager should approve orders > 1lkh.otherwise pending status
+15.go to requisitions orders
+16.login as PO
+17.place order to relevant supplier
+18.login as supplier
+19.go to accept orders
+20.he can be able to accept or not
+21.go to my orders >> shows accepted orders
+22.then he can deliver (+ sign)
+23.supplier >> my products
+24.after the delivery site manager confirms the delivery
+24.1. after full delivery site manager can closed the order
+25.supplier >> go to invoices >> submit
+26.shows details of the invoice
+27.login as accounting officer
+28.view invoices
+29.showa submitted order'
+40.transfer money 
